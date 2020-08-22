@@ -78,6 +78,9 @@ body {
 .addres .link-addres:focus {
   color: var(--accent-color);
 }
+.normal {
+  font-style: normal;
+}
 
 .section-title {
   color: var(--primary-text-color);
